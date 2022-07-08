@@ -36,6 +36,7 @@ const createStats = async (req, res, next) => {
         const newStats = {
             id: req.body.id,
             name:req.body.name,
+            club_player:req.body.club_player,
             wins: req.body.wins,
             losses: req.body.losses,
             points_scored: req.body.points_scored,
@@ -66,6 +67,7 @@ const updateStats = async (req, res, next) => {
         const newStatsData = {
             id: req.body.id,
             name:req.body.name,
+            club_player:req.body.club_player,
             wins: req.body.wins,
             losses: req.body.losses,
             points_scored: req.body.points_scored,

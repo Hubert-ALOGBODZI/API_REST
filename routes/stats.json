@@ -1,38 +1,302 @@
 [
     {
-      "id": 101,
-      "name":"ATAKORA",
+      "id": 16,
+      "name":"Malcom Barcola",
+      "club_player":"Lyon,France",
       "wins": 10,
       "losses": 3,
       "points_scored": 7
     },
     {
-      "id": 231,
-      "name":"ATAKORA",
-      "wins": 1,
-      "losses": 10,
-      "points_scored": 2
-    },
-    {
-      "id": 145,
-      "name":"ATAKORA",
-      "wins": 5,
-      "losses": 1,
-      "points_scored": 14
-    },
-    {
-      "id": 45,
-      "name":"ATAKORA",
-      "wins": 6,
-      "losses": 2,
-      "points_scored": 2
-    },
-    {
-      "id": 27,
-      "name":"ATAKORA",
-      "wins": 14,
-      "losses": 26,
-      "points_scored": 28
-    }
+        "id": 1,
+        "name":"Wassiou Ouro-Gneni",
+        "club_player":"ASCK",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 23,
+        "name":"Steven Foly Mensah",
+        "club_player":"Hamburg, Allemagne",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 21,
+        "name":"Dakonam Djene",
+        "club_player":"Getafe, Espagne",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 6,
+        "name":"Steven Folly Nador",
+        "club_player":"Spal, Italie",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 20,
+        "name":"Emmanuel Hackman",
+        "club_player":"Gil Vicente, Portugal",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 22,
+        "name":"Frédéric Ananou",
+        "club_player":"Paderborn, Allemagne",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 101,
+        "name":"Kangnivi Ama Tchoutchoui",
+        "club_player":"FC Nouadhibou, Mauritanie",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+
+
+      {
+        "id": 5,
+        "name":"KENNEDY KOFI BOATENG",
+        "club_player":"Santa Clara, Portugal",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+
+      {
+        "id": 2,
+        "name":"Klousseh Agbozo",
+        "club_player":"Abu Salem, Libye",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 3,
+        "name":"Loïc Anthony Bessilé",
+        "club_player":"Charleroi, Belgique",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 12,
+        "name":"Youssifou Atte",
+        "club_player":"Legon Cities, Ghana",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 102,
+        "name":"Jean Marie Nadjombe",
+        "club_player":"Fortuna Koln, Allemagne",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 103,
+        "name":"Kevin Boma",
+        "club_player":"Angers, France",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 104,
+        "name":"Mathieu Dotse",
+        "club_player":"Dyto",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 15,
+        "name":"Alaixys Romao",
+        "club_player":"Ionikos, Grèce",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 6,
+        "name":"Franco Atchou",
+        "club_player":"Erbil, Iraq",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 105,
+        "name":"Gnama Akate",
+        "club_player":"Al Naft, Iraq",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 106,
+        "name":"Marouf Tchakei",
+        "club_player":"AS Vita Club, RD Congo",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 8,
+        "name":"Samuel Asamoah",
+        "club_player":"Univ. Craoiva, Roumanie",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 107,
+        "name":"Dikeni-Rafid Salifou",
+        "club_player":"Augsburg, Allemagne",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 17,
+        "name":"Karim Dermane",
+        "club_player":"Feyenoord, Pays-Bas",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 108,
+        "name":"Malik Djibril",
+        "club_player":"Vicenza, Italie",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 23,
+        "name":"Samsondin Ouro",
+        "club_player":"NS Mura, Slovénie",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 101,
+        "name":"Jarry Kparo Ahoro",
+        "club_player":"AS Togo Port",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 11,
+        "name":"David Henen",
+        "club_player":"Courtrai, Belgique",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 109,
+        "name":"Ismail Ouro-Agoro",
+        "club_player":"St George, Ethiopie",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 200,
+        "name":"Justin Yere",
+        "club_player":"Dyto",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 9,
+        "name":"Kevin Denkey",
+        "club_player":"Cercle Brugge, Belgique",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 19,
+        "name":"Kodjo Laba",
+        "club_player":"Al Ain, Emirats arabes unis",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },      {
+        "id": 7,
+        "name":"Fessou Placca",
+        "club_player":"Al Tadamon, Koweit",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 201,
+        "name":"Thibault Klidje",
+        "club_player":"Bordeaux, France",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 203,
+        "name":"Josue Doke",
+        "club_player":"WAFA, Ghana",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 204,
+        "name":"Junior Akakpo",
+        "club_player":"Entente II",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 205,
+        "name":"Kodjo Aziangbe",
+        "club_player":"Al Nasr, Emirats arabes Unis",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 206,
+        "name":"Nadir Ayeva",
+        "club_player":"Orebro Syrianska, Suède",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      },
+      {
+        "id": 206,
+        "name":"Tawfik Moukaila",
+        "club_player":"Gbohloe-Su",
+        "wins": 10,
+        "losses": 3,
+        "points_scored": 7
+      }
+
   ]
 
