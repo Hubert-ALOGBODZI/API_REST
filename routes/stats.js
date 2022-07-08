@@ -35,6 +35,7 @@ const createStats = async (req, res, next) => {
         const stats = JSON.parse(data);
         const newStats = {
             id: req.body.id,
+            name:req.body.name,
             wins: req.body.wins,
             losses: req.body.losses,
             points_scored: req.body.points_scored,
@@ -64,6 +65,7 @@ const updateStats = async (req, res, next) => {
         }
         const newStatsData = {
             id: req.body.id,
+            name:req.body.name,
             wins: req.body.wins,
             losses: req.body.losses,
             points_scored: req.body.points_scored,
