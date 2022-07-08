@@ -78,9 +78,9 @@ Project to build API for TOGOLESE soccer players statistics management and deplo
     "id": 206,
     "name": "Nadir Ayeva",
     "club_player": "Orebro Syrianska, Suède",
-    "wins": 10,
-    "losses": 3,
-    "points_scored": 7
+    "wins": 30,
+    "losses": 13,
+    "points_scored": 10
  }
  ``` 
 // and it will return json file like this
@@ -89,9 +89,9 @@ Project to build API for TOGOLESE soccer players statistics management and deplo
     "id": 206,
     "name": "Nadir Ayeva",
     "club_player": "Orebro Syrianska, Suède",
-    "wins": 10,
-    "losses": 3,
-    "points_scored": 7
+    "wins": 30,
+    "losses": 13,
+    "points_scored": 10
  }
  ```
 ## DELETE https://murmuring-cove-22047.herokuapp.com/api/v1/stats/206
@@ -102,9 +102,9 @@ Project to build API for TOGOLESE soccer players statistics management and deplo
     "id": 206,
     "name": "Nadir Ayeva",
     "club_player": "Orebro Syrianska, Suède",
-    "wins": 10,
-    "losses": 3,
-    "points_scored": 7
+    "wins": 30,
+    "losses": 13,
+    "points_scored": 10
  }
  ``` 
 // and it will return an empty json file
